@@ -79,3 +79,16 @@ Com base nos artefatos encontrados, propõe-se uma estratégia de resposta em tr
 - Remediação: Isolamento total do sistema infectado, seguido de formatação e restauração via backup limpo para garantir a eliminação de mecanismos de persistência.
 
 - Prevenção: Reforço do security hardening (monitoramento de processos legítimos) e programas de conscientização contra phishing e engenharia social.
+
+## 📚 Referências
+
+- [Systematic Digital Forensic Investigation Model](https://www.researchgate.net/publication/228410430_Systematic_Digital_Forensic_Investigation_Model)
+
+- [American Public University - Recursos Forenses](https://www.apu.apus.edu/area-of-study/information-technology/resources/what-is-digital-forensics/)
+
+- [STJ - Cadeia de Custódia](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/23042023-A-cadeia-de-custodia-no-processo-penal-do-Pacote-Anticrime-a-jurisprudencia-do-STJ.aspx)
+  
+## ⚖️ Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+
