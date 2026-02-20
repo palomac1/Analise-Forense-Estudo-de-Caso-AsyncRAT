@@ -68,7 +68,7 @@ A investigação técnica permitiu dissecar a estratégia do atacante e identifi
 - Exfiltração e C2: Foi detectada atividade de "phone home" para o domínio malicioso tasteless-minister.auto.playit.gg.
 
 <p align="center">
-  <img src="assets/relatorioGeral.png" width="600" title="Análise Forense">
+  <img src="assets/relatorioGeral1.png" width="600" title="Relatório Geral">
 </p>
 
 **Plano de Ação Recomendado**  
